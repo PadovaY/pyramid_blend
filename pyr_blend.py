@@ -298,5 +298,7 @@ def display_blend(im1, im2, mask, im_blend):
     # show must go on
     plt.show()
 
-# im1, im2, mask, bi =  blending_example1()
-# blending_example2()
+
+#blending_example1()
+
+blending_example2()
